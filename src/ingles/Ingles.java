@@ -48,35 +48,35 @@ public class Ingles {
 
         switch (b){
                 case 1:
-                    numero1_10(voz);
-                    //numero100000_999999(voz);
+                    //numero1_10(voz);
+                    numero100000_999999(voz);
                     break;
                 case 2:
                     //numero10_99(voz);
-                    //numero100000_999999(voz);
-                    numero1_10(voz);
+                    numero100000_999999(voz);
+                    //numero1_10(voz);
                     break;
                 case 3:
-                    //numero100000_999999(voz);
-                    numero1_10(voz);
+                    numero100000_999999(voz);
+                    //numero1_10(voz);
                     break;
                 case 4:
-                    //numero10000_99999(voz);
-                    numero1_10(voz);
+                    numero10000_99999(voz);
+                    //numero1_10(voz);
                     break;
                 case 5:
-                    //numero1000000_9999999(voz);
-                    numero1_10(voz);
+                    numero1000000_9999999(voz);
+                    //numero1_10(voz);
                     break;
                 case 6:
                     //numero100000_999999(voz);
-                    //numero1000000_9999999(voz);
-                    numero1_10(voz);
+                    numero1000000_9999999(voz);
+                    //numero1_10(voz);
                     break;
                 case 7:
+                    numero1000000_9999999(voz);
                     //numero1000000_9999999(voz);
-                    //numero1000000_9999999(voz);
-                    numero1_10(voz);
+                    //numero1_10(voz);
                     break;                    
                 default:
                     break;
